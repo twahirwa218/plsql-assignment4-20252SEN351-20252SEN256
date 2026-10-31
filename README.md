@@ -18,7 +18,7 @@ The system manages employees, departments, salaries, and employee information.
 
 **Group Members:**
 
-1. [INEZA TWAHIRWA Shemsa] – [20252SEN352]
+1. [INEZA TWAHIRWA Shemsa] – [20252SEN351]
 2. [NEZA FAITH Nina] – [20252SEN256]
 
 ### 3. Technologies Used
