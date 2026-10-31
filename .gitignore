@@ -1,0 +1,20 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Editor backup files
+*.bak
+*.swp
+*~
+
+# Environment files containing sensitive information
+.env
+.env.local
+
+# SQL Developer local settings
+.sqldeveloper/
